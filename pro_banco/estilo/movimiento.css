@@ -1,0 +1,45 @@
+.back{
+	background-color: #042907;
+}
+
+.box1{
+	height: 30%;
+	width: 25%;
+	background-color: #FFFFFF;
+	margin-top: 20%;
+	margin-left: 37.5%;
+	border-radius: 10px;
+}
+
+.box1 a{
+	color: #000000;
+}
+
+.box1:hover, .box1:hover a{
+	color: #FFFFFF;
+	background-color: #92CD59;
+
+}
+
+.box2{
+	height: 30%;
+	width: 25%;
+	margin-top: 20px;
+	margin-left: 37.5%;
+	background-color: #FFFFFF;
+	border-radius: 10px;
+}
+
+.box2 a{
+	color: #000000;
+}
+
+.box2:hover, .box2:hover a{
+	color: #FFFFFF;
+	background-color: #92CD59;
+
+}
+
+.extra{
+	text-decoration: none;
+}

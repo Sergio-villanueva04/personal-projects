@@ -1,0 +1,33 @@
+.titulo{
+	color: #92CD59;
+}
+
+.input-fill{
+	border-radius: 9px 9px 9px 9px;
+	margin-top: 5px;
+	text-align: center;
+	border: 1px solid #92CD59;
+}
+
+.select{
+	border-radius: 9px 9px 9px 9px;
+	margin-top: 5px;
+	text-align: center;
+	background-color: white;
+	border: 1px solid #92CD59;
+}
+
+.input-boton{
+	text-align: center;
+	background-color: #92CD59;
+	border-radius: 12px 12px 12px 12px;
+	color: #ffffff;
+	border: solid 1px;
+	padding-left: 10px;
+	padding-right: 10px;
+	margin-bottom: 10px;
+}
+
+.extra{
+	text-decoration: none;
+}

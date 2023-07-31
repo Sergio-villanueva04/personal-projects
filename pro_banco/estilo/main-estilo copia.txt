@@ -1,0 +1,51 @@
+.logo{
+	width: 150px;
+	height: 56px;
+}
+
+header {
+	height: 59px;
+	/*width opcional: 
+	70% para que el logo no se vea tan lejano al centro de la pagina*/
+	width: 100%;
+	background-color: #FFFFFF;
+	border-bottom: 3px inset #2F9C95;
+	/*opcional:
+	padding-left: 5%;
+	padding-right: 5%;*/
+	font-weight: bold;
+	position: fixed;
+	z-index: 3;
+}
+
+nav ul {
+	list-style: none;
+	margin: 0;
+}
+
+nav li{
+	padding: 21px 20px;
+	height: 59px;
+}
+
+nav li a{
+	text-decoration: none;
+	color: #1E1916;
+}
+
+nav a:hover{
+	color: #1E1916;
+}
+
+nav li:hover{
+	background-color: #2F9C95;
+	color: #000000;
+}
+
+.back{
+	background-color: #FFFFFF;
+}
+
+.cuerpo{
+	padding-top: 31px
+}

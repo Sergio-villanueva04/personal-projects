@@ -1,0 +1,132 @@
+.logo{
+	width: 80px;
+	height: 54px;
+}
+
+header {
+	height: 59px;
+	/*width opcional: 
+	70% para que el logo no se vea tan lejano al centro de la pagina*/
+	width: 100%;
+	background-color: #FFFFFF;
+	border-bottom: 5px inset #92CD59;
+	/*opcional:
+	padding-left: 5%;
+	padding-right: 5%;*/
+	font-weight: bold;
+	position: fixed;
+	z-index: 3;
+}
+
+header p{
+	padding-bottom: 20%;
+	text
+}
+
+header h2{
+	padding-top: 5px;
+	padding-left: 5px;
+}
+
+nav ol {
+	list-style: none;
+	margin: 0;
+}
+
+nav li{
+	padding: 17px 20px;
+	height: 59px;
+}
+
+nav li a{
+	text-decoration: none;
+	color: #000000;
+}
+
+nav li:hover, nav li:hover a{
+	background-color: #92CD59;
+	color: #FFFFFF;
+}
+
+.back{
+	background-color: #042907;
+}
+
+/*.ban1 p{
+	z-index: 3;
+	text-align: justify;
+	position: relative;
+}*/
+
+.banner{
+	width: 55%;
+	/*clip-path: polygon(0 0, 100% 0%, 75% 100%, 0% 100%);*/
+	float: left;
+	display: inline-block;
+}
+
+.cuerpo{
+	margin-top: 10px;
+	margin-left: 10px;
+	float: right;
+	width: 29%;
+}
+
+.cuerpo-a{
+	text-decoration: none;
+	color: #ffffff;
+}
+
+.cuerpo-a:hover{
+	color: #92CD59;
+}
+
+.back{
+	background-color: #042907;
+}
+
+.box1{
+	margin-right: 20px;
+	height: 25px;
+	width: 100px;
+	background-color: #FFFFFF;
+	margin-top: 20%;
+	margin-left: 37.5%;
+	border-radius: 10px;
+	float: right;
+}
+
+.box1 a{
+	color: #000000;
+}
+
+.box1:hover, .box1:hover a{
+	color: #FFFFFF;
+	background-color: #92CD59;
+
+}
+
+.box2{
+	margin-right: 20px;
+	float: right;
+	height: 25px;
+	width: 100px;
+	margin-top: 20px;
+	margin-left: 37.5%;
+	background-color: #FFFFFF;
+	border-radius: 10px;
+}
+
+.box2 a{
+	color: #000000;
+}
+
+.box2:hover, .box2:hover a{
+	color: #FFFFFF;
+	background-color: #92CD59;
+
+}
+
+.extra{
+	text-decoration: none;
+}

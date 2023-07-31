@@ -1,0 +1,30 @@
+.back{
+
+}
+
+.box{
+	text-align: center;
+	margin-top: 15%;
+	margin-left: 35%;
+	height: 30%;
+	width: 30%;
+	/*border: 1px solid #0093DD;*/
+}
+
+.titulo{
+	/*background-color: #0093DD;*/
+	color: #0093DD;
+}
+
+.input-text{
+	border-radius: 9px 9px 9px 9px;
+	border: 1px solid #0093DD;
+	text-align: center;
+}
+
+.boton{
+	background-color: #0093DD;
+	color: #FFFFFF;
+	border-radius: 11px 11px 11px 11px;
+	border: solid #FFFFFF;
+}
